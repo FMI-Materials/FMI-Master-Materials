@@ -1,0 +1,6 @@
+[submodule "IS"]
+	path = IS
+	url = https://github.com/FMI-Materials/FMI-Master-IS-Materials
+[submodule "SAI"]
+	path = SAI
+	url = https://github.com/FMI-Materials/FMI-Master-SAI-Materials
