@@ -1,6 +1,3 @@
 [submodule "IS"]
 	path = IS
 	url = https://github.com/FMI-Materials/FMI-Master-IS-Materials
-[submodule "SAL"]
-	path = SAL
-	url = https://github.com/FMI-Materials/FMI-Master-SAL-Materials
