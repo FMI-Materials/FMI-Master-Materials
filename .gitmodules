@@ -1,6 +1,0 @@
-[submodule "IS"]
-	path = Inginerie Software
-	url = https://github.com/FMI-Materials/FMI-Master-IS-Materials
-[submodule "SAL"]
-	path = Security And Applied Logic
-	url = https://github.com/FMI-Materials/FMI-Master-SAL-Materials
